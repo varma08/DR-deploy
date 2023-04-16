@@ -195,13 +195,13 @@ if page == 'Infographics':
      
       with left_column:
         with st.expander("Points to keep in mind"):
-          st.image("/content/Screenshot 2023-04-07 at 3.34.54 PM 2.png")
+          st.image("Screenshot 2023-04-07 at 3.34.54 PM 2.png")
         with st.expander("Global Diabetic Retinopathy Market Share"):
-          st.image("/content/Marketshare.jpeg")
+          st.image("Marketshare.jpeg")
         with st.expander("Global prevalence of Diabetic Retinopathy"):
-          st.image("/content/Globalprevalence.jpeg")
+          st.image("Globalprevalence.jpeg")
         with st.expander("Global Diabetic Retinopathy Drugs Market"):
-          st.image("/content/Drugsmarket.jpeg")
+          st.image("Drugsmarket.jpeg")
           
       with right_column:
           lottie_coding_info = load_lottieurl("https://assets7.lottiefiles.com/packages/lf20_22mjkcbb.json")
